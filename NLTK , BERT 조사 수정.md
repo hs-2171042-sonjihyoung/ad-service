@@ -9,7 +9,9 @@ Nltk 조사 - https://github.com/nltk/nltk
   형태소 분석 - 형태소 분석(morphological analysis)이란 단어로부터 어근, 접두사, 접미사, 품사 등 다양한 언어적 속성을 파악하고 이를 이용하여 형태소를 찾아내거나 처리하는 작업이다.
   한국어 토큰화 오픈소스 - https://github.com/twitter/twitter-korean-text
   이 오픈소스에서는 현재 텍스트 정규화와 형태소 분석, 스테밍을 지원하고 있습니다. 짧은 단어는 물론이고 긴 글도 처리할 수 있다. twitter-korean-text는 normalization, tokenization, stemming, phrase extraction 이렇게 네가지 기능을 지원한다.
+  
   BERT 조사
+  
 - BERT는 구글에서 개발한 자연어처리(NLP) 훈련 기술이다. 특정 분야에 국한되지 않고 모든 자연어 처리 분야에서 좋은 성능을 내는 범용 Language Model이다. BERT는 지금까지의 자연어 처리에 활용되었던 다른 모델들보다 더 좋은 성능을 내고 있어 많은 관심을 받고 있다. 이전에는 단어 임베딩을 위해 Word2Vec, Glove, Fasttext 방식을 사용했지만, BERT가 자연어 처리 분야의 11개 실험에서 가장 좋은 성능을 차지하면서 많이 사용되고 있다. 
 - BERT는 언어 표현을 사전 학습시키는 방식을 통해 사용할 수 있다. 사전 학습은 BERT가 Wikipedia와 같은 대량의 텍스트 소스로 처음 학습되는 방법을 나타낸다. 이후 학습 결과를 [질문 답변] 및 [감정 분석]과 같은 다른 자연어 처리(NLP) 태스크에 적용할 수 있다. BERT 및 AI Platform Training을 사용하면 약 30분 만에 다양한 NLP 모델을 학습시킬 수 있다.
 - BERT를 이용하면 스팸메일 찾기, 문장 분류, 감성 분류,  두 문장 사이의 관계 분류, 문장 내 단어 라벨링, 자연어 추론, 개체명 인식, 텍스트 유사도 검사, 묻고 답히기, 등등이 가능하다.
