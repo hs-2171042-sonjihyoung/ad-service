@@ -3,9 +3,7 @@
 
 ### 3.1 KoCLIP
 
-
-#### * 라이선스-Apache-2.0 license
-
+* 라이선스-Apache-2.0 license
 
 #### 3.1.1 설명
 
