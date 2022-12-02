@@ -27,4 +27,4 @@
 5) 결과파일(dev.tsv, test.tsv)생성 – python inference.py -j 12 -b 2048 –model_dir output/ --div dev, python inference.py -j 12 -b 2048 –model_Dir output/ --div test   
 6) 결과파일로 BERT 언어 표현을 사전 학습시키기   
 
- 언어-python, 라이선스-Apache-2.0 license
+- 언어-python, 라이선스-Apache-2.0 license
