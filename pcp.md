@@ -1,6 +1,6 @@
 ### 3.3 Product-categories-classification
 
-* 언어-python, 라이선스-Apache-2.0 license
+* 라이선스-Apache-2.0 license
 
 #### 설명
    * Product-categories-classification은 카카오 아레나- 쇼핑몰 상품 카테고리 분류 대회에 참여해 1등의 성적을 거둔 라임로봇팀의 오픈 소스코드이다.       
