@@ -1,6 +1,6 @@
-DFD
+# DFD
 
-#DFD 이미지입니다.
+<img src="https://user-images.githubusercontent.com/115949608/205011561-41231333-a84e-4fcf-a7b3-534d51c52689.PNG" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 ![dfd이미지](https://user-images.githubusercontent.com/115949608/205011561-41231333-a84e-4fcf-a7b3-534d51c52689.PNG)
 
 
