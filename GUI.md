@@ -1,10 +1,10 @@
 ## 5	Graphical User Interface (GUI)
 
-​	5.1 Web Screen
+​	### 5.1 Web Screen
 
 <img src="https://user-images.githubusercontent.com/115959290/205199840-1a001073-1a27-48ac-bf10-321d627a2f85.png"></img><br/>
 
-​	5.2  Mobile Screen
+​	### 5.2  Mobile Screen
 
 <img src="https://user-images.githubusercontent.com/115959290/205199856-f0fc6dc0-6cae-496b-98ac-970b51d14448.png"></img><br/>
 			    
