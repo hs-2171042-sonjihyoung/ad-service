@@ -1,10 +1,10 @@
-# DFD
+# 4 DFD
 
-<img src="https://user-images.githubusercontent.com/115949608/205011561-41231333-a84e-4fcf-a7b3-534d51c52689.PNG" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
-![dfd이미지](https://user-images.githubusercontent.com/115949608/205011561-41231333-a84e-4fcf-a7b3-534d51c52689.PNG)
-
+<img src="https://user-images.githubusercontent.com/115949608/205011561-41231333-a84e-4fcf-a7b3-534d51c52689.PNG" width="650px" height="500px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 
 
+
+## 4.1 설명
 사용자가 구글에 접속하면 Geolocation API와 Places API는 구글 지도를 이용하여 현재 위치의 좌표값을 가져옵니다. 
 가져온 죄표값을 Geolocation API과 Places API에게 주면 현재위치와 주변 장소의 키워드를 얻을수 있고, 출력받은 키워드를 키워드 데이터 베이스에 전달합니다.
 
