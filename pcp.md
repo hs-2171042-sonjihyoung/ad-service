@@ -15,10 +15,10 @@
 
 - 작동하는 과정(단계)
    - Getting Stared    
-    - Step 1: 데이터 다운로드      
-    - Step 2: 데이터 준비 및 Vocabulary 생성      
-    - Step 3: 학습하기   
-    - Step 4: 추론하기   
+      - Step 1: 데이터 다운로드      
+      - Step 2: 데이터 준비 및 Vocabulary 생성      
+      - Step 3: 학습하기   
+      - Step 4: 추론하기   
   
 1) 광고 데이터베이스에서 받아온 데이터 다운로드 하기 
 2) Vocabulary 다운로드- vocab.zip 파일을 다운로드 받아 data/ 디렉터리에서 압축을 해제한다.   
