@@ -21,7 +21,7 @@
       - Step 3: 학습하기   
       - Step 4: 추론하기   
   
-1) 광고 데이터베이스에서 받아온 데이터 다운로드 하기 
+1) 광고 데이터베이스에서 받아온 데이터 다운로드하기 
 2) Vocabulary 다운로드- vocab.zip 파일을 다운로드 받아 data/ 디렉터리에서 압축을 해제한다.   
 3) dev.h5, text.h5 생성- python preprocess.py make_db dev, python preprocess.py make_db test   
 4) pre-trained modes 다운로드- 6개 모델 묶음을 다운로드하여 output/ 디렉터리에 압축을 풀어준다.   
