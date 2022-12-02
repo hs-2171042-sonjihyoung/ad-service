@@ -12,6 +12,6 @@ Nltk에서 지원하는 주요 기능은 말뭉치, 토큰 생성, 형태소 분
 
     3.2.4 –NLTK와 비슷한 기능을 가지는 오픈소스                              
 twitter-korean-text 오픈소스- https://github.com/twitter/twitter-korean-text
-- 이 오픈소스에서는 현재 텍스트 정규화와 형태소 분석, 스테밍을 지원하고 있다. 짧은 단어는 물론이고 긴 글도 처리할 수 있다. twitter-korean-text는 normalization, tokenization, stemming, phrase extraction 이렇게 네가지 기능을 지원한다.
+이 오픈소스에서는 현재 텍스트 정규화와 형태소 분석, 스테밍을 지원하고 있다. 짧은 단어는 물론이고 긴 글도 처리할 수 있다. twitter-korean-text는 normalization, tokenization, stemming, phrase extraction 이렇게 네가지 기능을 지원한다.
 
  
