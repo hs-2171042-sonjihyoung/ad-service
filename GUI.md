@@ -1,13 +1,10 @@
-***8	Graphical User Interface (GUI)***
+## 5	Graphical User Interface (GUI)
 
-​	8.1   **Navigation Hierarchy**
-
-​		8.1.1  ***Web Screen [x.1]***
+​	5.1 Web Screen
 
     ![pc화면](https://user-images.githubusercontent.com/115959290/205199840-1a001073-1a27-48ac-bf10-321d627a2f85.png)
-​		   
 
-​		8.1.2  ***Mobile Screen [x.2]***
+​	5.2  Mobile Screen
 
     ![모바일 화면](https://user-images.githubusercontent.com/115959290/205199856-f0fc6dc0-6cae-496b-98ac-970b51d14448.png)
 
