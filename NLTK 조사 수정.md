@@ -1,4 +1,4 @@
-3.2 NLTK
+# 3.2 NLTK
 
 3.2.1 – NLTK 설명 
 정의 - NLTK (Natural Language Toolkit)는 가장 널리 알려진 고성능 파이썬 NLP 라이브러리다. 주로 영어를 기반으로 하고 있다. 
