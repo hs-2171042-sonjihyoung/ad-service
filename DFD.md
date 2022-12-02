@@ -1,6 +1,6 @@
 # 4 DFD
 
-<img src="https://user-images.githubusercontent.com/115949608/205011561-41231333-a84e-4fcf-a7b3-534d51c52689.PNG" width="700px" height="500px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="https://user-images.githubusercontent.com/115949608/205011561-41231333-a84e-4fcf-a7b3-534d51c52689.PNG" width="800px" height="500px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 
 
 
